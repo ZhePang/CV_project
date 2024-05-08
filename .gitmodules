@@ -1,3 +1,6 @@
 [submodule "art-style-identify"]
 	path = art-style-identify
 	url = https://github.com/wsong5077/art-style-identify.git
+[submodule "painting-identification"]
+	path = painting-identification
+	url = https://github.com/ZhePang/Painting_Identification.git
