@@ -4,3 +4,6 @@
 [submodule "painting-identification"]
 	path = painting-identification
 	url = https://github.com/ZhePang/Painting_Identification.git
+[submodule "RAG-LLM"]
+	path = RAG-LLM
+	url = git@github.com:wsong5077/Arttalk-RAG-LLM.git
